@@ -9,7 +9,7 @@ Sensitive to environmental and social issues, responsible digital technology is 
 
 <h3 align="left">Connectez-vous à moi :</ h3>
 <p align="left">
-<a href="https://linkedin.com/in/coraliecourant" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coraliecourant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coraliecourant" target="blank"> <img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coraliecourant" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
